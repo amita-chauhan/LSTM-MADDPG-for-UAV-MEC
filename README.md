@@ -1,5 +1,5 @@
 # LSTM-MADDPG-for-UAV-MEC
-# UAV-MEC Computation Offloading using LSTM and Multi-Agent DDPG
+
 
 This repository contains the implementation of a hybrid **LSTM + Multi-Agent DDPG** model for intelligent **computation offloading** in **UAV-Enabled Mobile Edge Computing (MEC)** environments. The goal is to optimize offloading decisions by considering dynamic environments and user mobility. 
 
